@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula08Entregar/Aula08Entregar.iml" filepath="$PROJECT_DIR$/Aula08Entregar/Aula08Entregar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula08Parte2/Aula08Parte2.iml" filepath="$PROJECT_DIR$/Aula08Parte2/Aula08Parte2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula09/Aula09.iml" filepath="$PROJECT_DIR$/Aula09/Aula09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula09-EstruturaRepeticao/Aula09-EstruturaRepeticao.iml" filepath="$PROJECT_DIR$/Aula09-EstruturaRepeticao/Aula09-EstruturaRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula10Arrays/Aula10Arrays.iml" filepath="$PROJECT_DIR$/Aula10Arrays/Aula10Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula10Exercicios/Aula10Exercicios.iml" filepath="$PROJECT_DIR$/Aula10Exercicios/Aula10Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula9-EstruturaDecisao/Aula9-EstruturaDecisao.iml" filepath="$PROJECT_DIR$/Aula9-EstruturaDecisao/Aula9-EstruturaDecisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula9ExerciciosParte1/Aula9ExerciciosParte1.iml" filepath="$PROJECT_DIR$/Aula9ExerciciosParte1/Aula9ExerciciosParte1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio05.06.2023/Desafio05.06.2023.iml" filepath="$PROJECT_DIR$/Desafio05.06.2023/Desafio05.06.2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiro Programa/Primeiro Programa.iml" filepath="$PROJECT_DIR$/Primeiro Programa/Primeiro Programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos.iml" filepath="$PROJECT_DIR$/projetos.iml" />
+    </modules>
+  </component>
+</project>
