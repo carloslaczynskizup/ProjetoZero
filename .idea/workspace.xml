@@ -1,60 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e081c9-aff9-4f17-9e4a-db3a12bb96e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/catalisa-carlos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="807d3867-6259-4e9b-b25b-fa6a63beb25d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalisa-carlos.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/.idea/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/shelf/Uncommitted_changes_before_Update_at_05_06_2023_17_51_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/shelf/Uncommitted_changes_before_Update_at_05_06_2023_17_51__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/01-Aula09ExerciciosParte1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/02-Aula09-EstruturaRepeticao" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/03-Aula9-EstruturaDecisao" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/01-Aula10Exercicios" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.idea/misc.xml" beforeDir="false" />
@@ -342,7 +299,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2QtPmC5jKwjbL6U9Fa8ZX8ud7gB" />
+  <component name="ProjectId" id="2QtRue2izofGGVdJgWOTwO8tZiM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -352,18 +309,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5e081c9-aff9-4f17-9e4a-db3a12bb96e8" name="Changes" comment="" />
-      <created>1686170065479</created>
+      <changelist id="807d3867-6259-4e9b-b25b-fa6a63beb25d" name="Changes" comment="" />
+      <created>1686171118680</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686170065479</updated>
+      <updated>1686171118680</updated>
     </task>
     <servers />
   </component>
