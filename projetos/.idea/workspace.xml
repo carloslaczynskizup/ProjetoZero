@@ -5,21 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d918e635-603a-401e-87fc-f4090903bb05" name="Changes" comment="Projetos - Atualizando...">
-      <change afterPath="$PROJECT_DIR$/01. Aula07/Aula07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02. Aula08/Aula08Entregar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. Aula09/Aula09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. Aula10Arrays/Aula10Arrays.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula08Entregar/Exerc01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula08Entregar/Exerc03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula08Entregar/Exerc04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula08Entregar/Imc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desafio05.06.2023/EntregaNivel01/JogoAdivinhaNivel01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desafio05.06.2023/EntregaNivel02/JogoAdivinhaNivel02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/00. Primeiro Programa/Primeiro Programa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/Ex31052023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/VelocidadeKmMs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/ZerarFilaBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/areatrapezio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/exercicios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00. Primeiro Programa/src/expag19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/aula7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/Adicao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/Imc1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/MediaNotas/MediaNotas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/PrimeiroCodigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Aula07/src/SegundoCodigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Aula08/01-Aula08Parte2/01. Aula08Parte2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Aula08/01-Aula08Parte2/Aula08Parte2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Aula08/01-Aula08Parte2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/01. Aula08Parte2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/02. Aula08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/Aula08Entregar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/src/Exerc01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/src/Exerc03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/src/Exerc04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Aula08/src/Imc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/01-Aula09ExerciciosParte1/01. Aula9ExerciciosParte1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/01-Aula09ExerciciosParte1/Aula9ExerciciosParte1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/01-Aula09ExerciciosParte1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/02-Aula09-EstruturaRepeticao/02. Aula09-EstruturaRepeticao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/02-Aula09-EstruturaRepeticao/Aula09-EstruturaRepeticao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/02-Aula09-EstruturaRepeticao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/03-Aula9-EstruturaDecisao/03. Aula9-EstruturaDecisao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/03-Aula9-EstruturaDecisao/Aula9-EstruturaDecisao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Aula09/03-Aula9-EstruturaDecisao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/01. Aula9ExerciciosParte1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/02. Aula09-EstruturaRepeticao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/03. Aula09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/03. Aula9-EstruturaDecisao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/Aula09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/src/ExemElseIF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Aula09/src/ExemIF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Aula10Arrays/01-Aula10Exercicios/01. Aula10Exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Aula10Arrays/01-Aula10Exercicios/Aula10Exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Aula10Arrays/01-Aula10Exercicios/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/01. Aula10Exercicios" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/04. Aula10Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/Aula10Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/Exemplo01Aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/Exemplo02Array2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/ExemploListAula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/ExemploListAulaUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/ExemploMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Aula10Arrays/src/ExemploSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/05. Desafio05.06.2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/src/JogoAdivinhaNivel01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/src/JogoAdivinhaNivel02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Desafio05.06.2023/src/JogoAdivinhaNivel03.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +99,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -57,6 +122,9 @@
     &quot;state&quot;: &quot;CLOSED&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9b4ad375-02ff-446d-a8f2-c8fb1dfa83c2" />
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -69,6 +137,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Qnn5crCqzF2bpV9x5rTXI1cv9a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,27 +146,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos.junior/Documents/dev-tools/projetos/catalisa-carlos&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos.junior/Documents/dev-tools/projetos/catalisa-carlos/projetos&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Exerc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exerc01" />
-      <module name="Aula08Entregar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JogoAdivinhaNivel01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntregaNivel01.JogoAdivinhaNivel01" />
-      <module name="Desafio05.06.2023" />
+  <component name="RunManager" selected="Application.Adicao">
+    <configuration name="Adicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Adicao" />
+      <module name="projetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EntregaNivel01.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,14 +167,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Imc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imc" />
+      <module name="projetos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JogoAdivinhaNivel03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JogoAdivinhaNivel03" />
+      <module name="projetos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZerarFilaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZerarFilaBanco" />
+      <module name="projetos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exerc01" />
-        <item itemvalue="Application.JogoAdivinhaNivel01" />
+        <item itemvalue="Application.JogoAdivinhaNivel03" />
+        <item itemvalue="Application.ZerarFilaBanco" />
+        <item itemvalue="Application.Imc" />
+        <item itemvalue="Application.Adicao" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\carlos.junior\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d918e635-603a-401e-87fc-f4090903bb05" name="Changes" comment="" />
@@ -164,6 +252,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/02. Aula08/01. Aula08Parte2" />
+      <path value="$PROJECT_DIR$/03. Aula09/01. Aula9ExerciciosParte1" />
+      <path value="$PROJECT_DIR$/03. Aula09/02. Aula09-EstruturaRepeticao" />
+      <path value="$PROJECT_DIR$/03. Aula09/03. Aula9-EstruturaDecisao" />
+      <path value="$PROJECT_DIR$/04. Aula10Arrays/01. Aula10Exercicios" />
+    </ignored-roots>
     <MESSAGE value="Projetos" />
     <MESSAGE value="Projetos - Atualizando..." />
     <option name="LAST_COMMIT_MESSAGE" value="Projetos - Atualizando..." />
