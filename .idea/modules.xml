@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/projetos/00. Primeiro Programa/00. Primeiro Programa.iml" filepath="$PROJECT_DIR$/projetos/00. Primeiro Programa/00. Primeiro Programa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/02. Aula08/01. Aula08Parte2/01. Aula08Parte2.iml" filepath="$PROJECT_DIR$/projetos/02. Aula08/01. Aula08Parte2/01. Aula08Parte2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/04. Aula10Arrays/01. Aula10Exercicios/01. Aula10Exercicios.iml" filepath="$PROJECT_DIR$/projetos/04. Aula10Arrays/01. Aula10Exercicios/01. Aula10Exercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/03. Aula09/01. Aula9ExerciciosParte1/01. Aula9ExerciciosParte1.iml" filepath="$PROJECT_DIR$/projetos/03. Aula09/01. Aula9ExerciciosParte1/01. Aula9ExerciciosParte1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/02. Aula08/02. Aula08.iml" filepath="$PROJECT_DIR$/projetos/02. Aula08/02. Aula08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/03. Aula09/02. Aula09-EstruturaRepeticao/02. Aula09-EstruturaRepeticao.iml" filepath="$PROJECT_DIR$/projetos/03. Aula09/02. Aula09-EstruturaRepeticao/02. Aula09-EstruturaRepeticao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/03. Aula09/03. Aula09.iml" filepath="$PROJECT_DIR$/projetos/03. Aula09/03. Aula09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/03. Aula09/03. Aula9-EstruturaDecisao/03. Aula9-EstruturaDecisao.iml" filepath="$PROJECT_DIR$/projetos/03. Aula09/03. Aula9-EstruturaDecisao/03. Aula9-EstruturaDecisao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/04. Aula10Arrays/04. Aula10Arrays.iml" filepath="$PROJECT_DIR$/projetos/04. Aula10Arrays/04. Aula10Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/05. Desafio05.06.2023/05. Desafio05.06.2023.iml" filepath="$PROJECT_DIR$/projetos/05. Desafio05.06.2023/05. Desafio05.06.2023.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/catalisa-carlos.iml" filepath="$PROJECT_DIR$/.idea/catalisa-carlos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos/projetos.iml" filepath="$PROJECT_DIR$/projetos/projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalisa-carlos.iml" filepath="$PROJECT_DIR$/catalisa-carlos.iml" />
     </modules>
   </component>
 </project>
