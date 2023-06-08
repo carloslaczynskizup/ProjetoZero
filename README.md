@@ -10,7 +10,7 @@
 
     Aqui estão centralizados os meus códigos em treinamento dos exercícios propostos para o desenvolvimento.
 
-<h4> Tecnologias utilizadda </h4>
+<h4> Tecnologias utilizadas </h4>
 
     Utilizando a tecnologia Java com a IDE IntelliJ
 
