@@ -1,6 +1,3 @@
-# Índice
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-
 ![Descrição da imagem de capa: Uma mão segurando um processador de Implante Coclear Rondo 3 da MED_EL. Conhecido como Ouvido Biônico.](https://github.com/carloslaczynskizup/ProjetoZero/assets/133882447/acc40a02-36f5-4c32-8b19-fd0ea4e8d4a4)
 
 <h1 align="center"> Projeto Catalisa 2023 </h1>
@@ -9,14 +6,11 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-* [Descrição do Projeto](#descrição-do-projeto)
+<h4> Descrição do Projeto </h4>
 
-Aqui está centralizado os meus códigos em treinamento dos exercícios propostos para o desenvolvimento.
+    Aqui estão centralizados os meus códigos em treinamento dos exercícios propostos para o desenvolvimento.
 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+<h4> Tecnologias utilizadda </h4>
 
-Utilizando a tecnologia Java com a IDE IntelliJ
+    Utilizando a tecnologia Java com a IDE IntelliJ
 
-Projetos em Java
-
-Atualizando em 07.06.2023
