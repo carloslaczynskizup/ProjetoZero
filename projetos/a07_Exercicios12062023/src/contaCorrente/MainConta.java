@@ -3,6 +3,7 @@ package a07_Exercicios12062023.src.contaCorrente;
 import java.util.Scanner;
 
 public class MainConta {
+    //Aqui são os dados solicitados ao usuário
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -16,7 +17,10 @@ public class MainConta {
         float saldoConta = input.nextFloat();
         System.out.println();
 
-
+        //aqui é uma instância da classe contaCorrente de acordo com os dados fornecidos acima.
+        //essa instância abaixo que chama o construtor.
+        //new é usada para criar um novo objeto da classe supracitada.
+        //Objeto é criado com base no construtor da classe (exemplo: this.exemplo - this é um operadot)
         contaCorrente conta = new contaCorrente(nomeCliente, numeroCC, 0.0);
 
         System.out.println("Dados da Conta Corrente.");
