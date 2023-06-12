@@ -1,327 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="807d3867-6259-4e9b-b25b-fa6a63beb25d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/a06_Exercicios12062023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/contaCorrente/MainConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/contaCorrente/contaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/pessoa/MainPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/pessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalisa-carlos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/.idea/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/.idea/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/00-Primeiro-Programa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula07/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula07/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula08Parte2/src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula09ExerciciosParte1/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/01-Aula10Exercicios/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/05-Desafio05062023/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/05-Desafio05062023/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/05-Desafio05062023/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/05-Desafio05062023/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/05-Desafio05062023/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex07Rev2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Aula10Ex10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/EntregaNivel01/JogoAdivinhaNivel01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/EntregaNivel02/JogoAdivinhaNivel02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex01Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex02Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex03Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex04Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex05Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex06Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex07Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex08Repeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Ex31052023.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemElseIF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemIF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exemplo01Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exemplo02Array2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemploListAula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemploListAulaUsuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemploMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ExemploSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc01Parte1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc01Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc02Parte1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc02Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc03Parte1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc03Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc04Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc05Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc06Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exerc07Parte2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Exercicios08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Imc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Imc1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/JogoAdivinhaNivel03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Leiame.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/MediaNotas/MediaNotas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/PrimeiroCodigo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/SegundoCodigo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/VelocidadeKmMs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/ZerarFilaBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/areatrapezio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/aula7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/catalisa-carlos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/exercicios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/expag19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/00-Primeiro-Programa/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/00-Primeiro-Programa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/00-Primeiro-Programa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/00-Primeiro-Programa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula07/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula07/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula08Parte2/src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula09ExerciciosParte1/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/01-Aula10Exercicios/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula08/01-Aula08Parte2/src/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/02-Aula09-EstruturaRepeticao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/01-Aula09ExerciciosParte1/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/shelf/Uncommitted_changes_before_Update_at_29_05_2023_09_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/02-Aula09-EstruturaRepeticao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula09/03-Aula9-EstruturaDecisao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/03-Aula9-EstruturaDecisao/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/04-Aula10Arrays/01-Aula10Exercicios/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/05-Desafio05062023/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/05-Desafio05062023/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/05-Desafio05062023/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/05-Desafio05062023/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/05-Desafio05062023/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/Leiame.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/catalisa-carlos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/production/catalisa-carlos/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/projetos-catalisa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/src/Adicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/production/catalisa-carlos/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalisa-carlos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/catalisa-carlos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/Ex31052023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/VelocidadeKmMs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/ZerarFilaBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/areatrapezio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/exercicios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/00-Primeiro-Programa/src/expag19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/aula7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/Adicao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/Imc1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/MediaNotas/MediaNotas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/PrimeiroCodigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/01-Aula07/src/SegundoCodigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/01-Aula08Parte2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/src/Exerc01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/src/Exerc03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/src/Exerc04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/02-Aula08/src/Imc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/01-Aula09ExerciciosParte1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/01-Aula09ExerciciosParte1/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/01-Aula09ExerciciosParte1/src/Exerc01Parte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/01-Aula09ExerciciosParte1/src/Exerc02Parte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/01-Aula09ExerciciosParte1/src/Exerc03Parte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex01Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex02Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex03Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex04Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex05Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex06Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex07Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/02-Aula09-EstruturaRepeticao/src/Ex08Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/src/Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/src/Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/src/Ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/src/Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/03-Aula9-EstruturaDecisao/src/Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/ExemElseIF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/03-Aula09/src/ExemIF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex07Rev2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/01-Aula10Exercicios/src/Aula10Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/Exemplo01Aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/Exemplo02Array2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/ExemploListAula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/ExemploListAulaUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/ExemploMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/04-Aula10Arrays/src/ExemploSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/src/JogoAdivinhaNivel01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/src/JogoAdivinhaNivel02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/05-Desafio05062023/src/JogoAdivinhaNivel03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/Exercicios08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/06-Exercicios07062023/src/Exercicios08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projetos/a07_Exercicios12062023" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2QtRue2izofGGVdJgWOTwO8tZiM" />
+  <component name="ProjectId" id="2R7FFPq8mQQfYBiR1b2EVBDUewk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="807d3867-6259-4e9b-b25b-fa6a63beb25d" name="Changes" comment="" />
-      <created>1686171118680</created>
+      <changelist id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="" />
+      <created>1686593111495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686171118680</updated>
+      <updated>1686593111495</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/projetos/a06_Exercicios12062023" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
