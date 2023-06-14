@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Atualizando repositório">
+    <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Atualizando Exercícios - UML Carol">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2023_09_24_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2023_09_24__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/a08_AulaDebug13062023.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +27,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -34,6 +42,11 @@
         <option name="url" value="https://github.com/gustavocarvalhoti/catalisa-carlos" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,16 +56,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +97,56 @@
       <option name="project" value="LOCAL" />
       <updated>1686612050572</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualizando repositório">
+      <created>1686612400215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686612400215</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualizando repositório">
+      <created>1686612526621</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686612526621</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Atualizando repositório">
+      <created>1686745467539</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686745467539</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Atualizando repositório - Exercícios Quadrado">
+      <created>1686747818433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686747818433</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Atualizando Exercícios - UML Carol">
+      <created>1686775784098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686775784098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Atualizando Exercícios - UML Carol">
+      <created>1686776064943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686776064943</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualizando Exercícios - UML Carol">
+      <created>1686776295976</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686776295976</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +166,9 @@
       <path value="$PROJECT_DIR$/projetos/a07_Exercicios12062023" />
     </ignored-roots>
     <MESSAGE value="Atualizando repositório" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando repositório" />
+    <MESSAGE value="Atualizando repositório - Exercícios Quadrado" />
+    <MESSAGE value="Atualizando Exercícios - UML Carol" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando Exercícios - UML Carol" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -112,6 +177,106 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
