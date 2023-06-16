@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Atualizando Exercícios - UML Carol">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2023_09_24_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2023_09_24__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/a08_AulaDebug13062023.iml" afterDir="false" />
+    <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Envio Exercícios POO - Aula 20">
+      <change afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Fabricar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Fluorescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Funcional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Incandescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/MainLampada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,17 +55,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="a10_POO_Aula20.src.Ex01_ClasseAbstrata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlos.junior\Documents\dev-tools\projetos\catalisa-carlos\projetos" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -146,7 +153,42 @@
       <option name="project" value="LOCAL" />
       <updated>1686776295976</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Atualizando Exercícios - UML Carol">
+      <created>1686776571268</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686776571268</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Atualizando Exercícios - UML Carol">
+      <created>1686776643525</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686776643525</updated>
+    </task>
+    <task id="LOCAL-00013" summary="UML - TESTE ENVIO PDF">
+      <created>1686836496525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836496525</updated>
+    </task>
+    <task id="LOCAL-00014" summary="UML - TESTE ENVIO PDF">
+      <created>1686838380418</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686838380418</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Envio Exercícios POO - Aula 20">
+      <created>1686859914316</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686859914316</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +210,9 @@
     <MESSAGE value="Atualizando repositório" />
     <MESSAGE value="Atualizando repositório - Exercícios Quadrado" />
     <MESSAGE value="Atualizando Exercícios - UML Carol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando Exercícios - UML Carol" />
+    <MESSAGE value="UML - TESTE ENVIO PDF" />
+    <MESSAGE value="Envio Exercícios POO - Aula 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Envio Exercícios POO - Aula 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
