@@ -44,5 +44,4 @@ public class MainLoja { //classe principal ponto de entrada do programa
 
     }
 
-
 }

@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Envio Exercícios POO - Aula 20">
-      <change afterPath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/ICarros/src/CatalogoCarros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/ICarros/src/MainCarrosGestao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/ICarros/src/MarcaFiat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/ICarros/src/MarcaHyundai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/ICarros/src/MarcaRenault.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a09_AulaDiagramaUML/ExerciciosDiagrama14062023.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a09_AulaDiagramaUML/ExerciciosDiagrama14062023.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/CDmusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/CDmusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/MainLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/MainLoja.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
