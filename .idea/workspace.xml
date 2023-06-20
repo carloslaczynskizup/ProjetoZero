@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Envio Exercícios POO - Aula 20">
-      <change afterPath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
       <recent name="a10_POO_Aula20.src.Ex01_ClasseAbstrata" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlos.junior\Documents\dev-tools\projetos\catalisa-carlos\projetos\a11_ClassesComHerança19062023" />
       <recent name="C:\Users\carlos.junior\Documents\dev-tools\projetos\catalisa-carlos\projetos" />
     </key>
   </component>
