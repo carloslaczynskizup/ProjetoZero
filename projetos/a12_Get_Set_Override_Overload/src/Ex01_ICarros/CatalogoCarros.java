@@ -9,7 +9,7 @@ package a12_Get_Set_Override_Overload.src.Ex01_ICarros;
 //
 //Depois, sua tech lead lhe informou que todos os carros iniciam a partida do motor, freiam e aceleram,
 // porém, cada um faz isso de uma forma diferente.
-public class CatalogoCarros {
+public abstract class CatalogoCarros {
 
     private String marca;
     private String cor;
