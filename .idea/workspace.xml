@@ -6,7 +6,116 @@
   <component name="ChangeListManager">
     <list default="true" id="0f30e216-a7b8-4771-9fd3-1711b5a481fc" name="Changes" comment="Envio Exercícios POO - Aula 20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/CatalogoCarros.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/CatalogoCarros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/Ex31052023.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/ex31052023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/VelocidadeKmMs.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/velocidadeKmMs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/ZerarFilaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/zerarFilaBanco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/areatrapezio.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/areatrapezio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/exercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/exercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a00_PrimeiroPrograma/src/expag19.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a00_primeiro_programa/src/expag19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/Adicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/adicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/Imc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/Imc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/PrimeiroCodigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/primeiroCodigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/SegundoCodigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/segundoCodigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a01_Aula07/src/aula7.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a01_aula07/src/aula7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc01Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc01Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc02Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc02Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc03Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc03Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc04Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc04Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc05Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc05Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc06Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc06Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Aula08_Parte2/Exerc07Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/aula08_parte2/Exerc07Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Exerc01.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/Exerc01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Exerc03.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/Exerc03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Exerc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/Exerc04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a02_Aula08/src/Imc.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a02_aula08/src/Imc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/01-Aula09ExerciciosParte1/Exerc01Parte1.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/01-Aula09ExerciciosParte1/Exerc01Parte1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/01-Aula09ExerciciosParte1/Exerc02Parte1.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/01-Aula09ExerciciosParte1/Exerc02Parte1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/01-Aula09ExerciciosParte1/Exerc03Parte1.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/01-Aula09ExerciciosParte1/Exerc03Parte1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex01Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex01Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex02Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex02Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex03Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex03Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex04Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex04Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex05Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex05Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex06Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex06Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex07Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex07Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/02-Aula09-EstruturaRepeticao/Ex08Repeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/02-Aula09-EstruturaRepeticao/Ex08Repeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/03-Aula9-EstruturaDecisao/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/03-Aula9-EstruturaDecisao/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/03-Aula9-EstruturaDecisao/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/03-Aula9-EstruturaDecisao/Ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/03-Aula9-EstruturaDecisao/Ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/03-Aula9-EstruturaDecisao/Ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/03-Aula9-EstruturaDecisao/Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/03-Aula9-EstruturaDecisao/Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/03-Aula9-EstruturaDecisao/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/03-Aula9-EstruturaDecisao/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/ExemElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/ExemElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a03_Aula09/src/ExemIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a03_aula09/src/ExemIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex07Rev2.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex07Rev2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex09.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/Aula10Exercicios/src/Aula10Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a04_Aula10Arrays/aula10exercicios/src/Aula10Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a05_Desafio05062023/src/JogoAdivinhaNivel01.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a05_desafio05062023/src/JogoAdivinhaNivel01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a05_Desafio05062023/src/JogoAdivinhaNivel02.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a05_desafio05062023/src/JogoAdivinhaNivel02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a05_Desafio05062023/src/JogoAdivinhaNivel03.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a05_desafio05062023/src/JogoAdivinhaNivel03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios01.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios02.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios04.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios05.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios06.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios07.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a06_Exercicios07062023/src/Exercicios08.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a06_exercicios07062023/src/Exercicios08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/bola/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/bola/Bola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/bola/MainBola.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/bola/MainBola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/contaCorrente/MainConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/contaCorrente/MainConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/contaCorrente/contaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/contaCorrente/contaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/pessoa/MainPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/pessoa/MainPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/pessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/quadrado/MainQuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/quadrado/MainQuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a07_exercicios12062023/src/quadrado/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/a08_AulaDebug13062023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/a08_AulaDebug13062023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a09_AulaDiagramaUML/ExerciciosDiagrama14062023.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a09_aulaDiagramaUML/ExerciciosDiagrama14062023.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a09_AulaDiagramaUML/ExerciciosDiagrama14062023PDF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a09_aulaDiagramaUML/ExerciciosDiagrama14062023PDF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/CDmusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_ClasseAbstrata/CDmusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_ClasseAbstrata/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/ItensLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_ClasseAbstrata/ItensLoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/Livros.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_ClasseAbstrata/Livros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_ClasseAbstrata/MainLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_ClasseAbstrata/MainLoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Fabricar.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_Interfaces/Fabricar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Fluorescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_Interfaces/Fluorescente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_Interfaces/Funcional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/Incandescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_Interfaces/Incandescente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/Ex01_Interfaces/MainLampada.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a10_POO_Aula20/src/ex01_Interfaces/MainLampada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/Coordenadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/Coordenadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/Estagios.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/Estagios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/FuncAdministrativos.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/FuncAdministrativos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/MainGestaoEscola.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/MainGestaoEscola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/Professores.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/Professores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a11_ClassesComHerança19062023/src/TodosFuncionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a11_classes_com_herança19062023/src/TodosFuncionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/CatalogoCarros.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex01_ICarros/CatalogoCarros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/MainCarrosGestao.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex01_ICarros/MainCarrosGestao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/MarcaFiat.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex01_ICarros/MarcaFiat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/MarcaHyundai.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex01_ICarros/MarcaHyundai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex01_ICarros/MarcaRenault.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex01_ICarros/MarcaRenault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex02_Biblioteca/Livros.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex02_Biblioteca/Livros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a12_Get_Set_Override_Overload/src/Ex02_Biblioteca/MainLivraria.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a12_get_set_override_overload/src/ex02_Biblioteca/MainLivraria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a13_POO_22062023/Ex01_Banco/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a13_POO_22062023/ex01_Banco/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a13_POO_22062023/Ex01_Banco/ContaEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a13_POO_22062023/ex01_Banco/ContaEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a13_POO_22062023/Ex01_Banco/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a13_POO_22062023/ex01_Banco/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/a13_POO_22062023/Ex01_Banco/MainBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/a13_POO_22062023/ex01_Banco/MainBanco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,102 +329,102 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>34</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>31</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>30</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>29</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>27</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a07_Exercicios12062023/src/carro/MainCarro.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a07_exercicios12062023/src/carro/MainCarro.java</url>
           <line>26</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>80</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>90</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>89</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>79</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>81</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>82</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>102</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>105</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>107</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>120</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>119</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>121</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>38</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/projetos/a08_AulaDebug13062023/src/MainDebug.java</url>
+          <url>file://$PROJECT_DIR$/projetos/a08_aulaDebug13062023/src/MainDebug.java</url>
           <line>37</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
