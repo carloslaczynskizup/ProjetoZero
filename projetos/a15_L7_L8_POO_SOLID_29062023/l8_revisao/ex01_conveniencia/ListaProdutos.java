@@ -5,6 +5,7 @@ import java.util.List;
 
 //Listando os produtos da Loja
 public class ListaProdutos implements Gerenciamento {
+
     private List<Produtos> produtos;
 
     public ListaProdutos() {
@@ -21,7 +22,8 @@ public class ListaProdutos implements Gerenciamento {
     public void listarProduto() {
         System.out.println("Segue a lista de produtos:");
         for (int i = 0; i < produtos.size(); i++) {
-            System.out.println("Produto: " + produtos.get(i).getNome() + " - Preço" + produtos.get(i).getPreco());
+            System.out.println("Produto: " + produtos.get(i).getNome() + " - Preço R$: " + produtos.get(i).getPreco());
+            System.out.println("-----------------------");
         }
     }
 
@@ -31,8 +33,10 @@ public class ListaProdutos implements Gerenciamento {
             if (produtos.get(i).getNome().equals(nome)) {
                 produtos.remove(i);
                 System.out.println("O produto foi removido!");
+                System.out.println("-------------------------");
             } else {
                 System.out.println("O produto não foi encontrado!");
+                System.out.println("-------------------------------");
             }
         }
     }

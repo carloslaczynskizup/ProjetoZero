@@ -42,6 +42,8 @@ public class UsuarioInteracao {
     }
 
     private int exibirMenu(){
+        System.out.println("Sistema de Produtos.");
+        System.out.println("_____________________");
         System.out.println("1 - Listar produtos");
         System.out.println("2 - Adicionar produto");
         System.out.println("3 - Remover produto");
@@ -58,6 +60,7 @@ public class UsuarioInteracao {
 
         listaProdutos.addProduto(nome, preco);
         System.out.println("O produto foi adicionado!");
+        System.out.println();
     }
 
     private void removeProduto(){
@@ -65,6 +68,7 @@ public class UsuarioInteracao {
         String nome = scanner.nextLine();
         listaProdutos.removeProduto(nome);
         System.out.println("O produto foi removido!");
+        System.out.println();
         scanner.close();
 
     }
