@@ -1,5 +1,4 @@
-### Loucura! Cérebro deu bug! 
-:collision: :bomb:
+### Loucura! Cérebro deu bug! :collision: :bomb:
 
 ### Lista 7 - 29.06.2023
 
