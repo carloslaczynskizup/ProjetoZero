@@ -1,5 +1,11 @@
 package a15_L7_L8_POO_SOLID_29062023.l7_paises;
 
+//Escreva uma classe que represente um país. Um país é representado através dos atributos:
+// código ISO 3166-1 (ex.: POL), nome (ex.: Polônia), população (ex.: 193.946.886)
+// e a sua dimensão em Km2 (ex.: 8.515.767,049).
+// Além disso, cada país mantém uma lista de outros países com os quais ele faz fronteira.
+// Escreva a classe em Java e forneça os seus membros a seguir:
+
 //Região da Europa Central(Vou usar apenas uma região como exemplo, escolhi a Europa Central).
 //
 //a) Construtor que inicialize o código ISO, o nome e a dimensão do país;
@@ -18,7 +24,7 @@ public abstract class Pais implements PaisVizinho {
     private double dimensao;
 
     //Constructor para os atributos do objeto.
-    public Pais(String iso, String nome, double populacao, double dimensao){
+    public Pais(String iso, String nome, double populacao, double dimensao) {
         this.iso = iso;
         this.nome = nome;
         this.populacao = populacao;
@@ -26,13 +32,13 @@ public abstract class Pais implements PaisVizinho {
     }
 
     //Método para calcular a densidade populacional do país.
-        public double calcularDensidadePopulacao(){
+    public double calcularDensidadePopulacao() {
         return populacao / dimensao;
     }
 
     //Crie um método que receba um país como parâmetro
     // e retorne a lista de vizinhos comuns aos dois países.
-        public abstract List<Pais> getVizinhos();
+    public abstract List<Pais> getVizinhos();
 
     //Getters and Setters para os atributos.
     public String getIso() {
