@@ -10,18 +10,21 @@ public class Coordenadores extends TodosFuncionarios {
         super(nome, cpf, numRegistro, lotacao, salario);
         this.professoresSupervisao = new ArrayList<>();
     }
+
     @Override
     public void reembolsar(double valor) {
         System.out.println("Reembolsar despesas Coordenadores(as): " + ": R$ " + String.format("%,.2f") + valor);
     }
+
     @Override
-    public void reajusteSalario(){
-      //  setSalario(getSalario() * 1.05);
+    public void reajusteSalario() {
+        //  setSalario(getSalario() * 1.05);
         //aumentar salario em 5% para coordenadores(as)
         //setSalario é uma expressão usada para definir um novo valor para o atributo salario
         //getSalario é uma expressão usada para obter o valor do atributo salario atual.
     }
-    public void adicionarProfessoresSupervisao(Professores professoresSupervisao){
+
+    public void adicionarProfessoresSupervisao(Professores professoresSupervisao) {
         this.professoresSupervisao.add(professoresSupervisao);
     }
 

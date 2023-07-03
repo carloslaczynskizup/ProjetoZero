@@ -7,18 +7,18 @@ import java.util.List;
 public class EuropaCentral extends Pais {
     private List<Pais> paisesVizinhos;
 
-    public EuropaCentral(String iso, String nome, double populacao, double dimensao){
+    public EuropaCentral(String iso, String nome, double populacao, double dimensao) {
         super(iso, nome, populacao, dimensao);
         this.paisesVizinhos = new ArrayList<>();
     }
 
-    public void addVizinho(Pais paisVizinho){
+    public void addVizinho(Pais paisVizinho) {
         paisesVizinhos.add(paisVizinho);
 
     }
 
-    public String ehVizinho(Pais outroVizinho){
-        return("Sim!");
+    public String ehVizinho(Pais outroVizinho) {
+        return ("Sim!");
     }
 
     @Override
@@ -27,11 +27,11 @@ public class EuropaCentral extends Pais {
     }
 
     //Método para obter vizinhos comuns aos dois países.
-    public List<Pais> getVizinhosEmComum(Pais outroVizinho){
+    public List<Pais> getVizinhosEmComum(Pais outroVizinho) {
         List<Pais> vizinhosComuns = new ArrayList<>();
 
-        for(Pais vizinho : paisesVizinhos) {
-            if(paisesVizinhos.contains(vizinho)) {
+        for (Pais vizinho : paisesVizinhos) {
+            if (paisesVizinhos.contains(vizinho)) {
                 vizinhosComuns.add(vizinho);
             }
         }

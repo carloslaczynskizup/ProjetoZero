@@ -19,7 +19,7 @@ public class MarcaFiat extends CatalogoCarros {
         super.frearCarro();
     }
 
-    public void acelerarCarro(){
+    public void acelerarCarro() {
         setVelocidade(getVelocidade() + 12);
         super.acelerarCarro();
     }

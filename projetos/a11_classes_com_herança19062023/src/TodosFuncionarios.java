@@ -19,6 +19,7 @@ public abstract class TodosFuncionarios {
         this.lotacao = lotacao;
         this.salario = salario;
     }
+
     public abstract void reembolsar(double valor);
 
     public abstract void reajusteSalario();

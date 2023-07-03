@@ -20,14 +20,16 @@ public class Professores extends TodosFuncionarios {
         this.qtdTurmas = qtdTurmas;
         this.qtdEstagiarios = qtdEstagiarios;
     }
+
     @Override
     public void reembolsar(double valor) {
-        System.out.println("Reembolsar despesas Professores(as): " + ": R$ "  + valor);
+        System.out.println("Reembolsar despesas Professores(as): " + ": R$ " + valor);
 
     }
+
     @Override
-    public void reajusteSalario(){
-     //   setSalario(getSalario() * 1.1);
+    public void reajusteSalario() {
+        //   setSalario(getSalario() * 1.1);
         //aumentar salario em 10% para professores(as)
         //setSalario é uma expressão usada para definir um novo valor para o atributo salario
         //getSalario é uma expressão usada para obter o valor do atributo salario atual.

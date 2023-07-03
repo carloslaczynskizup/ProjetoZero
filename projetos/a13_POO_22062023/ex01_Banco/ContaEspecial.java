@@ -6,7 +6,7 @@ package a13_POO_22062023.ex01_Banco;
 public class ContaEspecial extends ContaBancaria {
     double limite = 0;
 
-    public ContaEspecial(String nomeCliente, String numeroCC, double saldoConta){
+    public ContaEspecial(String nomeCliente, String numeroCC, double saldoConta) {
         super(nomeCliente, numeroCC, saldoConta);
         this.limite = limite;
     }
@@ -14,9 +14,9 @@ public class ContaEspecial extends ContaBancaria {
     //Sobrescrever o método sacar com a nova lógica necessária.
 
     @Override
-    public void sacar(double valorSacar){
+    public void sacar(double valorSacar) {
         double saldoTotal = saldoConta + limite;
-        if (valorSacar <= saldoTotal){
+        if (valorSacar <= saldoTotal) {
             setSaldoConta(getSaldoConta() - valorSacar);
             System.out.println("Você realizou um saque! Novo saldo no valor de R$ " + saldoConta);
         } else {

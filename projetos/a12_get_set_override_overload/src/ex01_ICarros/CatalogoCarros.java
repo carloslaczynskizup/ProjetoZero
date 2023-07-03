@@ -1,4 +1,5 @@
 package a12_get_set_override_overload.src.ex01_ICarros;
+
 //Após a sua formação no Catalisa, o pessoal te redirecionou para o cliente chamado ICarros.
 // No seu primeiro dia de trabalho , a sua tech lead te pediu que //crie um sistema simples de registro de carros
 // para que o time comece a catalogar os tipos de carros que o cliente possui para financiamento.
@@ -30,19 +31,18 @@ public abstract class CatalogoCarros {
     }
     //Os métodos da classe incluem as ações do carro como: ligar, frear e acelerar.
 
-    public void ligarCarro(){
+    public void ligarCarro() {
         System.out.println("Iniciando o motor. Carro ligado! A velocidade está em " + velocidade + " km/h");
     }
 
-    public void frearCarro(){
+    public void frearCarro() {
         System.out.println("Freando o carro. A velocidade está em " + velocidade + " km/h");
 
     }
 
-    public void acelerarCarro(){
+    public void acelerarCarro() {
         System.out.println("Acelerando o carro. A velocidade está em " + velocidade + " km/h");
     }
-
 
 
     //Getters e Setters para o incremento e decremento da velocidade do carro.
@@ -50,7 +50,7 @@ public abstract class CatalogoCarros {
         return velocidade;
     }
 
-    public int setVelocidade(int velocidade){
+    public int setVelocidade(int velocidade) {
         return this.velocidade = velocidade;
     }
 

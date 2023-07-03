@@ -6,14 +6,14 @@ public class UsuarioInteracao {
     private Scanner scanner;
     private ListaProdutos listaProdutos;
 
-    public UsuarioInteracao(){
+    public UsuarioInteracao() {
         this.scanner = new Scanner(System.in);
         this.listaProdutos = new ListaProdutos();
     }
 
-    public void menu(){
+    public void menu() {
         boolean entrar = true;
-        while(entrar) {
+        while (entrar) {
             exibirMenu();
             int opcao = scanner.nextInt();
             scanner.nextLine();
@@ -41,7 +41,7 @@ public class UsuarioInteracao {
 
     }
 
-    private int exibirMenu(){
+    private int exibirMenu() {
         System.out.println("Sistema de Produtos.");
         System.out.println("_____________________");
         System.out.println("1 - Listar produtos");
@@ -51,7 +51,8 @@ public class UsuarioInteracao {
         System.out.println("Escolha uma opção: ");
         return 0;
     }
-    private void addProduto(){
+
+    private void addProduto() {
         System.out.println("Digite o nome do produto desejado: ");
         String nome = scanner.nextLine();
         System.out.println("Digite o preço do produto desejado: ");
@@ -63,7 +64,7 @@ public class UsuarioInteracao {
         System.out.println();
     }
 
-    private void removeProduto(){
+    private void removeProduto() {
         System.out.println("Digite o nome do produto que deseja excluir: ");
         String nome = scanner.nextLine();
         listaProdutos.removeProduto(nome);

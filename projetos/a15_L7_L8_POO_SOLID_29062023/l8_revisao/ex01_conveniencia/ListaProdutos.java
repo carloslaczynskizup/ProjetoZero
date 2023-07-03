@@ -14,7 +14,8 @@ public class ListaProdutos implements Gerenciamento {
 
     @Override
     public void addProduto(String nome, double preco) {
-        Produtos produto = new Produtos(nome, preco){};
+        Produtos produto = new Produtos(nome, preco) {
+        };
         produtos.add(produto);
     }
 

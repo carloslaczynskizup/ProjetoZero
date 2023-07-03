@@ -13,6 +13,6 @@
 - Além de outros dados e informações dos funcionários.
 
 
-- Não consegui concluir a classe principal Main para rodar o programa. E está tudo bem, uma hora consigo! :scream_cat:
+- Não consegui concluir a classe principal MainTest1 para rodar o programa. E está tudo bem, uma hora consigo! :scream_cat:
 
 
