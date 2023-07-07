@@ -5,7 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/projetos/a14_Pilares_Solid/pom.xml" />
+        <option value="$PROJECT_DIR$/a17_desafio02_03072023/pom.xml" />
+        <option value="$PROJECT_DIR$/projetos/a17_desafio02_03072023/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/a17_desafio02_03072023/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">

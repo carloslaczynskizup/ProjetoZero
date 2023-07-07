@@ -1,0 +1,3 @@
+Não realizada. Somente adicionado alguns parâmetros na pasta test/java e algumas classes.
+
+Ver Readme.md

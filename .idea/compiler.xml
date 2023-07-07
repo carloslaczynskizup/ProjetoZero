@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="a17_desafio02_03072023" />
         <module name="a14_Pilares_Solid" />
       </profile>
     </annotationProcessing>
